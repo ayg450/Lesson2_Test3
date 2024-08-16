@@ -26,5 +26,5 @@ fun main() {
 
     hour = "10"
     minute = "55"
-    println("Посадка – " + hour + ":" + minute)
+    print("Посадка – " + hour + ":" + minute)
 }
