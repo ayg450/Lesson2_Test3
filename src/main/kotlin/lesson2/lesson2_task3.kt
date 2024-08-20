@@ -27,4 +27,5 @@ fun main() {
     hour = "10"
     minute = "55"
     print("Посадка – " + hour + ":" + minute)
+
 }
